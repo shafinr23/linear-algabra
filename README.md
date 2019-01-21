@@ -16,5 +16,5 @@ Download the project and install the dependencies if they exist:
 
 Run the project:
 
-	cd Python-Linear-Algebra
+	cd linear-algebra
     jupyter notebook
